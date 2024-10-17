@@ -11,7 +11,7 @@ body {
 }
 
 header {
-    background-color: #007BFF;
+    background-color: #8298af;
     color: white;
     padding: 20px 0;
     text-align: center;
@@ -73,6 +73,3 @@ a {
     text-decoration: none;
     transition: color 0.3s;
 }
-
-a:hover {
-    color: #0056b3;
